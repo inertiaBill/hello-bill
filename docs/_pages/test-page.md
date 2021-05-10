@@ -4,7 +4,9 @@ title: "Test page"
 excerpt: "Messing around with a post"
 last_modified_at: 2021-05-08
 toc: true
-nav: "docs"
+sidebar: 
+  title: "Test sidebar nav"
+  nav: docs
 ---
 
 ## Overview
