@@ -14,7 +14,7 @@ main:
   #   url: /sitemap/
   
 docs:
-  - title: Sample Left Navigation
+  - title: "Sample Left Navigation"
     children:
       - title: "Test Page"
         url: /test-page/
