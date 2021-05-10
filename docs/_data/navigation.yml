@@ -12,3 +12,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  
+docs:
+  - title: Sample Left Navigation
+    children:
+      - title: "Test Page"
+        url: /test-page/
